@@ -3,9 +3,11 @@
 [Go back](../../README.md)
 
 - Complex: $\mathbb{C}$
-*If we consider "number" to mean any quantity or value that can be represented numerically, excluding vectors, matrices, and other mathematical objects, then all numbers that have ever existed can be considered complex numbers.*
+
+If we consider "number" to mean any quantity or value that can be represented numerically, excluding vectors, matrices, and other mathematical objects, then all numbers that have ever existed can be considered complex numbers.
 
 - Imaginary: NA (not available)
+
 __[Read more...](./imaginary_numbers.md)__
 
 - Real: $\mathbb{R}$
