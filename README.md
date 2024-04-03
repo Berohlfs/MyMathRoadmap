@@ -4,8 +4,8 @@ I have created this repo to register and organize all my mathematics knowledge.
 
 ## Sumary
 
-1. [Number sets](./content/1_number_sets/README.md)
-1. [Arithmetic](./content/2_arithmetic/README.md)
+1. [Number sets](./content/1_number_sets/index.md)
+1. [Arithmetic](./content/2_arithmetic/index.md)
 
 ## General References
 
