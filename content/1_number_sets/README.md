@@ -6,7 +6,7 @@
 
 If we consider "number" to mean any quantity or value that can be represented numerically, excluding vectors, matrices, and other mathematical objects, then all numbers that have ever existed can be considered complex numbers.
 
-- Imaginary: NA (not available) [Read more...](./imaginary_numbers.md)
+- Imaginary: NA (not available) [Read more...](../../content/1_number_sets/imaginary_numbers.md)
 
 - Real: $\mathbb{R}$
 - Rational: $\mathbb{Q}$

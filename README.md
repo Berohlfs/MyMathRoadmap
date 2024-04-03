@@ -10,3 +10,4 @@ I have created this repo to register and organize all my mathematics knowledge.
 ## General References
 
 * [Roadmap](https://youtu.be/OmJ-4B-mS-Y?si=cGKzIWg_A7UQgn7k)
+* [GitHub - Writing Mathematical Expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
