@@ -1,6 +1,6 @@
 # Imaginary Numbers
 
-[Go back](./README.md)
+[Go back](./index.md)
 
 Complex numbers can be divided into two major categories: **real numbers** and **imaginary numbers**. Since the smashing majority of most commonly used numbers are real numbers, let's define what imaginary numbers are so that we can proceed with real numbers later on.
 
